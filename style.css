@@ -1,28 +1,8 @@
 .html
 body{
-    background-color: darkblue;
-}
-h1{
-    color: aquamarine;
-    text-shadow: black;
+
 }
 h2{
-    color: blueviolet;
-    text-shadow: black;
-}
-h3{
-    color: cornflowerblue;
-    text-shadow: black;
-}
-h4{
-    color: aqua;
-    text-shadow: blue;
-}
-h5{
-    color: cyan;
-    text-shadow: yellowgreen;
-}
-h6{
-    color: darkgreen;
-    text-shadow: crimson;
+    color: rgb(177, 219, 255);
+    font-family: Arial, Helvetica, sans-serif;
 }
