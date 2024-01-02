@@ -1,0 +1,37 @@
+body {
+  background-color: #f0f0f0; /* Light pastel gray */
+  color: #333333; /* Dark pastel gray */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header, nav, section, footer {
+  background-color: #9fa8da; /* Pastel blue */
+}
+
+nav {
+  background-color: #9fa8da; /* Pastel blue */
+  padding: 10px;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+}
+
+li {
+  margin: 0;
+}
+
+a {
+  color: #6a737d; /* Pastel gray */
+  text-decoration: none;
+  padding: 8px 15px;
+  border-radius: 5px;
+}
+
+a:hover {
+  background-color: #dcd6f7; /* Light pastel purple */
+}
