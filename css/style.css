@@ -1,6 +1,6 @@
 @import url('https://unpkg.com/@catppuccin/palette/css/catppuccin.css');
 @import url('https://fonts.googleapis.com/css2?family=DotGothic16&display=swap');
-
+@import url('https://malwarewatch.org/styles/styles.css')
 body {
   font-family: 'Arial', sans-serif;
   margin: 0;
