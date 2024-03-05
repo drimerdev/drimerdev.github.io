@@ -1,5 +1,12 @@
-@import url(https://malwarewatch.org/styles/styles.css);
+body {
+    background: url(../img/1555172.jpg);
+    text-align: center;
+}
 
+h1, h2, h3, h4, p, a {
+    color: wheat;
+    font-family: monospace;
+}
 .links {
     text-align: center;
 }

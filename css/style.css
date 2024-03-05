@@ -1,44 +1,17 @@
 @import url('https://unpkg.com/@catppuccin/palette/css/catppuccin.css');
 @import url('https://fonts.googleapis.com/css2?family=DotGothic16&display=swap');
-@import url('https://malwarewatch.org/styles/styles.css')
+
 body {
-  font-family: 'Arial', sans-serif;
-  margin: 0;
-  padding: 0;
-  background-color: #f4f4f4;
+  background: url(../img/1555172.jpg);
+  align-items: center;
 }
 
-header {
-  background-color: #333;
-  color: #fff;
+h1, h2, h3, h4, h5, h6, p {
+  color: wheat;
+  font-family: monospace;
   text-align: center;
-  padding: 1rem;
-}
-
-section {
-  max-width: 800px;
-  margin: 2rem auto;
-  padding: 1rem;
-  background-color: #fff;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  border-radius: 8px;
-}
-
-h1, h2, h3 {
-  color: #333;
-}
-
-.project {
-  margin-bottom: 1.5rem;
 }
 
 footer {
-  text-align: center;
-  padding: 1rem;
-  background-color: #333;
-  color: #fff;
-  position: fixed;
-  bottom: 0;
-  width: 100%;
+  background-color: rgb(211, 164, 77);
 }
-
